@@ -1,0 +1,3 @@
+startMaster(): check port, check/connect database, startWorker()
+
+startWorker(): connectToDatabase, loadDistributionConfig, loadCDNs
